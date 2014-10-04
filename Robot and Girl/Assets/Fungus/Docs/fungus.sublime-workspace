@@ -1,0 +1,232 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/_4_sprites.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/_3_views.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/_4_audio.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/_1_rooms.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/_1_game.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/_7_commands.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/_6_values.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/_0_mainpage.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/_8_planned_features.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/_2_pages.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/mainpage.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/sprites.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/room.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/page.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/game.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/howto.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/view.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/planned_features.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/audio.md",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/game.md.meta",
+		"/Users/Gregan/github/snozbot-fungus/Assets/Fungus/Docs/overview.md.meta",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/documents/fungus/support.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/documents/fungus.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/layouts/page.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/partials/default_footer.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/partials/navigation.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/documents/fungus/example.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/documents/fungus/features.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/documents/fungus/getting_started.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/documents/fungus/get_started.html.jade",
+		"/Users/Gregan/github/snozbot-games/snozbotair/src/partials/section_baggage_carryon.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/partials/active_page.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/documents/support.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/documents/get_started.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/documents/example.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/partials/default_header.html.jade",
+		"/Users/Gregan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/partials/section_overview.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/documents/features.html.jade",
+		"/Users/Gregan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Gregan/github/fungus-site/README.md",
+		"/Users/Gregan/github/snozbot-tools/README.md",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/docpad.coffee",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/documents/learn.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/documents/community.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/documents/showcase.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/documents/index.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/README.md",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/partials/iubenda_privacy.html",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/partials/section_baggage_carryon.html.jade",
+		"/Users/Gregan/github/fungus-site/fungus-docpad/src/documents/snozbotair.html.jade",
+		"/Users/Gregan/github/snozbot-games/fungus/Assets/SBTestGame/Text/MealShed.txt",
+		"/Users/Gregan/github/snozbot-games/fungus/Assets/SBTestGame/Text/Inventory.txt",
+		"/Users/Gregan/github/snozbot-games/fungus/Assets/SBTestGame/Text/Paddock.txt",
+		"/Users/Gregan/github/snozbot-games/fungus/Assets/SBTestGame/Text/Global.txt",
+		"/Users/Gregan/github/snozbot-games/fungus/Assets/SBTestGame/Text/strings.txt",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/Gregan/Dropbox/Public/404DetectiveAgency/404DetectiveAgency.html",
+		"/Applications/Twine 1.3.5/targets/sugarcane/header.html",
+		"/Users/Gregan/Desktop/TextAreaEditor.cs",
+		"/Users/Gregan/Desktop/EditorGUILayoutTextArea.cs",
+		"/Users/Gregan/github/snozbot-games/fungus/Assets/TestGame/Text/strings.txt",
+		"/Users/Gregan/Dropbox/Public/404DetectiveAgency/fixup.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n//-",
+			"active",
+			"Videos",
+			"white",
+			"\n			",
+			"brain",
+			"stop",
+			"net",
+			"”",
+			"“",
+			"stop",
+			"’",
+			"'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&quot;",
+			"&apos;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "fungus.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
