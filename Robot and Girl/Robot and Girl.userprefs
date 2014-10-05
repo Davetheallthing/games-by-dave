@@ -1,9 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\FungusExample\Scripts\MenuRoom.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\yellowRobot.js">
     <Files>
-      <File FileName="Assets\FungusExample\Scripts\PageRoom.cs" Line="32" Column="17" />
-      <File FileName="Assets\FungusExample\Scripts\MenuRoom.cs" Line="16" Column="11" />
+      <File FileName="Assets\scripts\yellowRobot.js" Line="38" Column="47" />
+      <File FileName="Assets\FungusExample\Scripts\PageRoom.cs" Line="1" Column="1" />
+      <File FileName="Assets\FungusExample\Scripts\MenuRoom.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
